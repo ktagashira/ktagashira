@@ -1,6 +1,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktagashira&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktagashira&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktagashira&theme=gruvbox&utcOffset=9)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ktagashira&theme=onedark&row=2&column=5
+)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **ktagashira/ktagashira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
