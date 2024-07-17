@@ -1,5 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktagashira&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktagashira&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktagashira&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktagashira&theme=nord_bright&utcOffset=9)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ktagashira&theme=nord_bright&row=2&column=6
