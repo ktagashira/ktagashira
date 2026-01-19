@@ -12,8 +12,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktagashira&theme=github)
 
-![github-stats](./profile/stats.svg)
-
-![top-langs](./profile/top-langs.svg)
+<p>
+  <img src="./profile/stats.svg" height="160" />
+  <img src="./profile/top-langs.svg" height="160" />
+</p>
 
 ![trophy](./profile/trophy.svg)
