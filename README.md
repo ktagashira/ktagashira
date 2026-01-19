@@ -1,3 +1,14 @@
+### Hi there 👋
+
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat&logo=Zenn&logoColor=white)](https://zenn.dev/chabasssy)
+[![SpeakerDeck](https://img.shields.io/badge/SpeakerDeck-009287?style=flat&logo=speakerdeck&logoColor=white)](https://speakerdeck.com/ktagashira)
+
+#### Tech Blog Posts
+- [MCPとAIエージェントを活用してSlackから複数CRMの顧客情報を横断検索できる仕組みを作った話](https://tech.findy.co.jp/entry/2025/07/08/070000)
+- [Dataformの活用とその効果](https://tech.findy.co.jp/entry/2024/07/01/083000)
+
+---
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktagashira&theme=nord_bright)
 
 ![github-stats](./profile/stats.svg)
