@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/tagasyksk)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat&logo=Zenn&logoColor=white)](https://zenn.dev/chabasssy)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/tagasyksk)
 [![SpeakerDeck](https://img.shields.io/badge/SpeakerDeck-009287?style=flat&logo=speakerdeck&logoColor=white)](https://speakerdeck.com/ktagashira)
