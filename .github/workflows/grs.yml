@@ -26,6 +26,12 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
           path: profile/top-langs.svg
           token: ${{ secrets.PROFILE_GENERATE_TOKEN }}
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: "username=${{ github.repository_owner }}&theme=nord_bright&row=2&column=6"
+          path: profile/trophy.svg
+          token: ${{ secrets.PROFILE_GENERATE_TOKEN }}
 
       - name: Commit cards
         run: |
