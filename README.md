@@ -14,7 +14,7 @@
   <img src="./profile/top-langs.svg" height="160" align="top" />
 </p>
 
-<img src="./profile/trophy.svg" width="800" />
+<img src="./profile/trophy.svg" width="675" />
 
 ---
 
