@@ -13,8 +13,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktagashira&theme=github)
 
 <p>
-  <img src="./profile/stats.svg" height="160" />
-  <img src="./profile/top-langs.svg" height="160" />
+  <img src="./profile/stats.svg" height="160" align="top" />
+  <img src="./profile/top-langs.svg" height="160" align="top" />
 </p>
 
 ![trophy](./profile/trophy.svg)
