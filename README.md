@@ -9,7 +9,7 @@
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktagashira&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktagashira&theme=github)
 
 ![github-stats](./profile/stats.svg)
 
