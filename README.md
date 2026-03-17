@@ -19,5 +19,6 @@
 ---
 
 #### Tech Blog Posts
+- [事業拡大に伴うマルチプロダクトデータ基盤のプラットフォーム化](https://tech.findy.co.jp/entry/2026/03/16/070000)
 - [MCPとAIエージェントを活用してSlackから複数CRMの顧客情報を横断検索できる仕組みを作った話](https://tech.findy.co.jp/entry/2025/07/08/070000)
 - [Dataformの活用とその効果](https://tech.findy.co.jp/entry/2024/07/01/083000)
