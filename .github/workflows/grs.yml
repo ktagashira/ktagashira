@@ -33,6 +33,19 @@ jobs:
           path: profile/trophy.svg
           token: ${{ secrets.PROFILE_GENERATE_TOKEN }}
 
+      - name: Generate profile details card
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_GENERATE_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: github
+          UTC_OFFSET: 9
+          AUTO_PUSH: false
+
+      - name: Copy profile details card
+        run: cp profile-summary-card-output/github/0-profile-details.svg profile/profile-details.svg
+
       - name: Commit cards
         run: |
           git config user.name "github-actions"

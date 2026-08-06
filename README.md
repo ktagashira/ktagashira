@@ -7,7 +7,7 @@
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktagashira&theme=github)
+![](./profile/profile-details.svg)
 
 <p>
   <img src="./profile/stats.svg" height="160" align="top" />
