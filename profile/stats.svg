@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Keisuke Tagashira's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 2289, Total PRs: 1575, Total Issues: 621, Contributed to (last year): 43</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 2297, Total PRs: 1578, Total Issues: 621, Contributed to (last year): 43</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 102.88918765941995;
+        stroke-dashoffset: 102.88757691714048;
       }
     }
   
